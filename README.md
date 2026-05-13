@@ -1,2 +1,2 @@
 # Sentinel
-Real-time fraud detection dashboard powered by a multi-agent system using ML scoring, rule-based risk evaluation, and ACL communication protocols.
+SENTINEL is a fraud intelligence operations platform built with React and TypeScript. It simulates a multi-agent architecture where specialized agents — Surveillance, ML Analysis, Risk Evaluation, and Audit — collaborate to detect and block fraudulent transactions in real time. The dashboard includes KPI cards, live transaction feeds, fraud charts, agent network monitoring, model performance metrics, incident logs, and UML architecture diagrams.
